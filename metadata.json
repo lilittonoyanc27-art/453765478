@@ -1,0 +1,6 @@
+{
+  "name": "Pasapalabra — El Rosco (Español & Հայերեն)",
+  "description": "Интерактивная игра El Rosco (Pasapalabra) для изучения испанского языка с армянским переводом, таймером на 30 минут и 27 вопросами уровня A2–B1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
